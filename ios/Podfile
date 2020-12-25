@@ -87,3 +87,4 @@ post_install do |installer|
 end
 pod 'Firebase', '6.15.0'
 pod 'FirebaseInAppMessaging', '0.16.0'
+pod 'Firebase/Analytics'

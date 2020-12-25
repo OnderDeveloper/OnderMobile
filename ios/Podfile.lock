@@ -1,6 +1,8 @@
 PODS:
   - Firebase (6.15.0):
     - Firebase/Core (= 6.15.0)
+  - Firebase/Analytics (6.15.0):
+    - Firebase/Core
   - Firebase/Core (6.15.0):
     - Firebase/CoreOnly
     - FirebaseAnalytics (= 6.2.1)
@@ -133,6 +135,7 @@ PODS:
 
 DEPENDENCIES:
   - Firebase (= 6.15.0)
+  - Firebase/Analytics
   - firebase_messaging (from `.symlinks/plugins/firebase_messaging/ios`)
   - FirebaseInAppMessaging (= 0.16.0)
   - Flutter (from `Flutter`)
@@ -236,6 +239,6 @@ SPEC CHECKSUMS:
   url_launcher_web: e5527357f037c87560776e36436bf2b0288b965c
   webview_flutter: d2b4d6c66968ad042ad94cbb791f5b72b4678a96
 
-PODFILE CHECKSUM: 6edbc09c1e2dfbbc8beaa3d47109f8f9349b2acc
+PODFILE CHECKSUM: b13bcfa59b66e3759863ff74081db24850eb3777
 
 COCOAPODS: 1.9.3
