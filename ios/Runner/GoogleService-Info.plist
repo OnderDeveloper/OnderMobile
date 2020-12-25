@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>583555262483-cjn191uittd23saitu53bf3afvqmjajr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.583555262483-cjn191uittd23saitu53bf3afvqmjajr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1ucX0RMI5OxkGyMvwFEt3pjy8lUSxLE0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>583555262483</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.onder2020</string>
+	<key>PROJECT_ID</key>
+	<string>ondermobile2020</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ondermobile2020.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:583555262483:ios:20179a3bd3ad341aeb77e6</string>
+	<key>DATABASE_URL</key>
+	<string>https://ondermobile2020.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "583555262483",
+    "firebase_url": "https://ondermobile2020.firebaseio.com",
+    "project_id": "ondermobile2020",
+    "storage_bucket": "ondermobile2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583555262483:android:4df9581af9d6a2bfeb77e6",
+        "android_client_info": {
+          "package_name": "com.example.onder2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583555262483-b9ck9uqan35bi0j6kvammsli5bkjsjbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQgao9MtLrGe2MnzSVC-F1wI5aqFc201I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583555262483-b9ck9uqan35bi0j6kvammsli5bkjsjbm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583555262483-cjn191uittd23saitu53bf3afvqmjajr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onder2020"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
